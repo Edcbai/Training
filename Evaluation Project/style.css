@@ -1,0 +1,40 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    display: flexbox;
+  }
+  
+  .header {
+    margin-top: 50px;
+  }
+  
+  .guess-ratio {
+    font-size: 24px;
+  }
+  
+  .main {
+    margin-top: 50px;
+  }
+  
+  .letter-input {
+    font-size: 24px;
+    padding: 10px;
+  }
+  
+  .new-game-button {
+    font-size: 24px;
+    padding: 10px 20px;
+    margin-left: 20px;
+    border-radius: 3rem;
+    background-color: #d0efff;
+    border-color: #d0efff;
+  }
+  .button{
+    font-size: 24px;
+    padding: 2rem 3rem;
+    margin-right: 1px;
+}
+.new-game-button:hover{
+    background-color: #0056B3;
+    border-color: #0056B3;
+}
